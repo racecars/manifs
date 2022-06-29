@@ -228,3 +228,13 @@ text {
   font-family: Georgia;
   font-size: 20px;
 }
+
+table, tr, th {
+
+
+  font-size: 12px;
+  /* font-weight: bold; */
+
+font-family: 'Courier New', monospace;
+}
+
